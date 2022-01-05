@@ -1,0 +1,8 @@
+
+spring:
+  data:
+    mongodb:
+      password: root
+      username: root
+      port: 27017
+      database: recette
